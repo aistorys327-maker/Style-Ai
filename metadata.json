@@ -1,0 +1,10 @@
+{
+  "name": "StyleAI",
+  "description": "Professional AI Hairstyle & Beard Recommendation Web App.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
